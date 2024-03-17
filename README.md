@@ -3,7 +3,7 @@ Kompilasi kode program dengan perintah gcc 2308107010074_1.c -o tugas1
 Perintah ini akan mengkompilasi kode program dan menghasilkan file dengan nama tugas1
 Kemudian jalankan program dengan perintah .\tugas1
 Kemudian akan muncul perintah untuk memasukkan pilihan
-Masukkan pilihan konversi yang  diinginkan, 1-4
+Masukkan pilihan konversi yang  diinginkan antara 1-4
 Masukkan bilangan yang ingin dikonversi sesuai dengan pilihan yang dipilih
 Tekan Enter untuk menampilkan hasilnya.
 
